@@ -1,0 +1,12 @@
+- "Literature is art married to thought."
+- **Before I die, I hope to glimpse this comprehensive perspective, from which every event and discovery is placed in historical continuity, illuminated through scientific understanding, elevated by philosophical analysis, and softened with literary sympathy.** 
+- A book is a heart that only beats in the chest of another.
+- A scientist is happy, not in resting on his attainments but in the steady acquisition of fresh knowledge.~[[Max Planck]] #quote 
+- “Every problem, every dilemma, every dead end we find ourselves facing in life, only appears unsolvable inside a particular frame or point of view. Enlarge the box, or create another frame around the data, and problems vanish, while new opportunities appear.” - **Benjamin Zander 
+- "The way of the warrior is resolute acceptance of death" - Miyamoto Musashi, "The Book of Five Rings"
+- "Be a loner. That gives you time to wonder, to search for the truth. Have holy curiosity. Make your life worth living." - Albert Einstein
+- "Any one may mouth out a passage with a theatrical cadence, or get upon stilts to tell his thoughts: but to write or speak with propriety and simplicity is a more difficult task." – William Hazlitt
+- "Besides reading, a young person ought to write, if they have the capacity and leisure. If you wish to remember a thing well, put it into writing, even if you burn the paper after you have done so; for the eye greatly assists the mind." – William Cobbett
+- “I would rather have questions that can’t be answered than answers that can’t be questioned.” - [[Richard Feynman]]
+- “There are limitless opportunities open to the man who appreciates the fact that his own mind is the sole key that unlocks them.” - Rocket Man, David Clary
+- I am convinced, both by faith and experience, that to maintain one's self on this earth is not a hardship but a pastime, if we will live simply and wisely. - [[Henry David Thoreau]]

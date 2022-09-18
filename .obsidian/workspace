@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "867aaafd421b3200",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcb17892369f1604",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "My Common Place Book.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09c26d70ad29715e",
+    "type": "split",
+    "children": [
+      {
+        "id": "28992cdbb70b9ca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb991c797f906a92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b2346df301a1de2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "email",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "8818b10b787b76f6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 199
+  },
+  "right": {
+    "id": "4817eab1d20c511c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1328d65204a76453",
+        "type": "tabs",
+        "dimension": 40.32753326509724,
+        "children": [
+          {
+            "id": "ce59120932f6c12a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My Common Place Book.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb58242a8c63537a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My Common Place Book.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80d7b068b58a3470",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35ba7bd58b86eead",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "30 References/32 Annotated/B - The Library.md"
+              }
+            }
+          },
+          {
+            "id": "60b254abb8f96fcb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "62fece47f6541849",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb141d7abf8a8c22",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "728cde434eb5235b",
+        "type": "tabs",
+        "dimension": 59.67246673490276,
+        "children": [
+          {
+            "id": "5374e3be3c3c4750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/95 Daily Notes/08-03-2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "active": "bcb17892369f1604",
+  "lastOpenFiles": [
+    "Codex 2.md",
+    "My Common Place Book.md",
+    "Drafts/Plan for future conduct - august 2022.md",
+    "Drafts/Newsletter 08-26.md",
+    "Drafts/Book Review - Revolt of the Public.md",
+    "Lists/Book reviews.md",
+    "My Common Place Book 2.md",
+    "Lists/Developing a system for an organized, relaxed, deep life.md",
+    "Drafts/How I Built My Blog.md",
+    "Drafts/On Game Theory.md"
+  ]
+}

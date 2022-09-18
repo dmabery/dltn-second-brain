@@ -1,0 +1,4 @@
+- Thomas Edison had an, **"Interest in the life of the world"** p.32 - [[Edison]]
+- "Return your borrowed stardust to the universe" when saying someone died. *The Marginilian* does this a lot
+- Making sense of the senseless
+- 

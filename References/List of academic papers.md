@@ -1,0 +1,3 @@
+- http://worrydream.com/refs/
+- Learn calculus - http://calculusmadeeasy.org/
+- Are Ideas Getting Harder to Find
